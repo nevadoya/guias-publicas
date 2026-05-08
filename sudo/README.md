@@ -24,6 +24,14 @@ grep "%wheel" /usr/pkg/etc/sudoers
 
 Observamos que por defecto está comentada (#), entonces se necesita habilitar, pero nosotros seguiremos la configuración modular, no tocar los archivos principales. Utilizaremos el directorio **sudoers.d**, también aclaramos que si usamos sudo con el usuario que se ha creado en la instalación, el cual pertenece al grupo wheel, no puede usar sudo, el mensaje indica *is not in the sudoers file*.
 
+### ✅ Observar si se incluye el directorio sudoers.d
+
+```bash
+grep "include" /usr/pkg/etc/sudoers
+```
+
+Observamos que si se incluye y comienza con @inlude y la ruta hasta el directorio modular .d
+
 ### ✅ Crear archivos en sudoers.d
 
 > [!CAUTION]
