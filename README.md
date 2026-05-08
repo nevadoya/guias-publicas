@@ -2,7 +2,8 @@
 
 Bienvenido a mi colección de guías paso a paso. Selecciona un tema para empezar:
 ## NetBSD 10.1
-1. [🛠️ Cómo configurar SUDO](./sudo/README.md)  <!-- O ruta: /sudo/README.md -->
+1. [🛠️ Cómo configurar SUDO](./sudo/README.md)
+2. [:key: SSH con llave púbica](./ssh/README.md)
 
 <!--
 ## Ubuntu server 24 en Raspberry pi 5
