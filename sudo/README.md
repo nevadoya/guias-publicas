@@ -102,6 +102,8 @@ Al intentar usar sudo le dirá que no pertenece al archivo sudoers.
 > [!TIP]
 > con el comando $id your_user, puedes mirar si pertenece al grupo wheel, después de crear el usuario debes cerrar sesión para ese usuario y volver a ingresar, $id your_user.
 
+---
+
 ### 🏁 Conclusión
 ¡Felicidades! Has completado el tutorial. Si tienes dudas, puedes abrir un **Issue** en este repositorio.
 
