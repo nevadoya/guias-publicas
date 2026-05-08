@@ -8,6 +8,7 @@ Busquemos por ejemplo el archivo principal sshd_config
 sudo find / -name sshd_config
 ```
 
+Observamos que la ruta al directorio principal es /etc/ssh/sshd_config, en la carpeta ssh no existe el directorio modular sshd_config.d, entonces debemos crear manualmente.
 
 
 
