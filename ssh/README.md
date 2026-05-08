@@ -88,7 +88,7 @@ El caracter ~ (colita de puerquito) se obtiene con la combinación de teclas alt
 $sudo service sshd restart
 ```
 
-Ahora ya no ingreasarás por contraseña, será por lave, directo el ingreso al servidor.
+Ahora ya no ingreasarás por contraseña, será por llave, directo el ingreso al servidor.
 
 ### Ingresar al servidor
 
@@ -97,4 +97,4 @@ ssh usuario_servidor@ip-servidor
 ```
 
 ---
-Gracias por llegar hasta aquí, lo escribí con mucho cariño, [@nevadoya](https://github.com/nevadoya)
+Creado con ❤️, [@nevadoya](https://github.com/nevadoya)
