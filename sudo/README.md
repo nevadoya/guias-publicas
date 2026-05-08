@@ -1,4 +1,4 @@
-## 🚀 Sudo en NetBSD 10.1
+## :hammer_and_wrench: Sudo en NetBSD 10.1
 Los pasos necesarios para hacer funcionar sudo, es el comando que permite ejecutar comandos como root, en todo el proceso antes de habilitar sudo a los usuarios se debe usar a root (#) como usuario que realiza la configuración. Mencionamos que en la instalación del sistema operativo se ha creado un usuario el cual se agregó al grupo wheel. El grupo **wheel** es importante, los usuarios deben pertenecer a este grupo para utilizar sudo.
 
 ### ✅ Instalar sudo
